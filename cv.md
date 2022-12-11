@@ -17,7 +17,7 @@ I want to gain knowledge in the field of front-end development in order to make 
 - Javascript(Basic);
 - Git.
 
-## Code Examples
+## Code Example
 
 ```javascript
 var massiv = [Max, Dima, Kate, Nastya];
